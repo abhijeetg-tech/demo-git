@@ -1,0 +1,1 @@
+print("Hello, Abhijeet! Python is ready.")
